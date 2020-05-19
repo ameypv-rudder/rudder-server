@@ -43,11 +43,11 @@ You can also use the [cloud-hosted](https://app.rudderstack.com/signup?type=free
 
 You can go through our [detailed documentation](https://docs.rudderstack.com/) to get up and running with RudderStack on your platform of choice:
 
-- [Hosted Demo Account](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack#setup-instructions-for-a-hosted-demo-account)
-- [Docker](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack#setup-instructions-for-docker)
-- [Kubernetes](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack#setup-instructions-for-kubernetes)
-- [Native Installation](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack#setup-instructions-for-a-native-installation)
-- [Developer Machine Setup](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack/developer-machine-setup)
+- [Hosted Demo Account](https://docs.rudderstack.com/administrators-guide/installing-and-setting-up-rudderstack/hosted-demo-account)
+- [Docker](https://docs.rudderstack.com/administrators-guide/installing-and-setting-up-rudderstack/docker)
+- [Kubernetes](https://docs.rudderstack.com/administrators-guide/installing-and-setting-up-rudderstack/kubernetes)
+- [Native Installation](https://docs.rudderstack.com/administrators-guide/installing-and-setting-up-rudderstack/native-installation)
+- [Developer Machine Setup](https://docs.rudderstack.com/administrators-guide/installing-and-setting-up-rudderstack/developer-machine-setup)
 
 Once you have installed RudderStack, [send test events](https://docs.rudderstack.com/getting-started/installing-and-setting-up-rudderstack#how-to-send-test-events) to verify the setup.
 
